@@ -1,2 +1,2 @@
-# nabeel-portfolio
-Professional HSE and Quality portfolio for Nabeel Purnama.b
+# Nabeel Purnama Portfolio
+Professional HSE and Quality portfolio.
